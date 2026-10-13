@@ -1,0 +1,10 @@
+{
+	"name": "LS_source_care",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://caresyncnew.dfs.core.windows.net/"
+		}
+	}
+}
